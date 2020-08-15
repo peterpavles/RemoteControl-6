@@ -1,4 +1,4 @@
-# RemoteControl
+#QT Based RemoteControl
 基于Qt5的远控，分为服务器与客户端
 
 实现了客户端与客户端之间的控制，服务器用于转发数据
